@@ -12,3 +12,5 @@ This automation leverages UiPath's intelligent capabilities to manage the entire
 - Third-Party Enrichment API: A web service (e.g., Clearbit) for lead data enrichment.
 
 ## 🗺️ Process Map
+<img width="1648" height="204" alt="image" src="https://github.com/user-attachments/assets/639a7684-48cd-4855-98cc-a149bca769df" />
+
